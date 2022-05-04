@@ -1,6 +1,6 @@
 # Personal profile of software engineering skills
 
-⬜ Optional, 🟦 Required for all, 🟨 Required for js, 🟩 Learned, 🟥 Declined
+⬜ Optional, 🟦 Required for all, 🟨 Specific to JS 🟩 Learned, 🟥 Declined
 
 ## Fundamental concepts
 
@@ -27,7 +27,7 @@
 | 🟩 async function    | 🟩 new Error          | 🟩 factory            | 🟨 string parsing   | 🟩 prettier          |
 | 🟩 call, bind, apply |                       | 🟩 pool               | 🟨 timers           | 🟩 unittest          |
 | 🟩 Array             |                       | 🟩 wrapper            | 🟩 EventEmitter     | 🟩 git               |
-| 🟩 instanceof        |                       | 🟩 default parameters | 🟨 RegExp           | 🟩 github            |
+| 🟩 instanceof        |                       | 🟩 default parameters |  RegExp           | 🟩 github            |
 | 🟩 ...spread         |                       |                       | 🟩 global           | 🟩 node.js           |
 | 🟩 ...rest           |                       |                       | 🟩 undefined        | 🟩 npm               |
 | 🟩 typeof            |                       |                       | 🟩 null             |                      |
