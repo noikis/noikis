@@ -1,5 +1,4 @@
-<code>🎓 [portfolio](https://ilyas.tech/)</code>
-<code>⚪ Work at: [Crypton Studio](https://crypton.studio/)</code>
+<code>⚪ Work at: Совкомбанк Технологий</code>
 <code>👷 Speciality: Software engineer / Backend</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
